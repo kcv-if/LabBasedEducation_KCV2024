@@ -1,9 +1,6 @@
 # Modul 1
 ## Introduction to Machine Learning
 
-<hr> 
-<br>
-
 ### Apa saja sih yang akan dipelajari?
 - Definisi machine learning
 - Jenis-jenis machine learning
