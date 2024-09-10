@@ -7,4 +7,4 @@
 - Contoh algoritma machine learning
 
 ### Modul materi
-Berikut ini [modul materi](Modul 1/Introduction_to_Machine_Learning.pptx) yang dipelajari.
+Berikut ini [modul materi](./Introduction_to_Machine_Learning.pptx) yang dipelajari.
